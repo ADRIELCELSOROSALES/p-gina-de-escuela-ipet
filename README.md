@@ -1,2 +1,2 @@
-# p-gina-de-escuela-ipet
-pagina de ejercicios para la página de Cress
+# Clubes-de-ciencia-challenge-
+esta es una plantilla para pagina web de clubes challenge 2020
